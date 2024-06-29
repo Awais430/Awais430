@@ -12,3 +12,4 @@ I am a passionate MERN stack developer with a keen interest in building efficien
 # Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-ali-7b6715259/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hamza8696ali/?hl=en)
